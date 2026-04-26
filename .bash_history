@@ -86,3 +86,36 @@ git commit -m "Initial commit"
 git remote add origin https://github.com/Karthee1010/EMC_Week11.git 
 git branch -M main
 git push -u origin main
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/YOUR-USERNAME/demo-project.git
+git branch -M main
+git push -u origin main
+git init
+git add .
+git commit -m "Initial commit"
+clear
+git remote add origin https://github.com/YOUR-USERNAME/demo-project.git
+git branch -M main
+git push -u origin main
+git remote set-url origin https://github.com/Karthee1010/demo-project.git
+git remote -v
+git push -u origin main
+sudo systemctl start jenkins
+sudo netstat -tulnp | grep 8080
+clear
+git push -u origin main
+git remote remove origin
+git remote add origin https://github.com/kartheeemc/EMC_Week11.git
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+:wq
+[200~git push -u origin main~
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+clear
+git config --global pull.rebase false
+git pull origin main --allow-unrelated-histories
+git push -u origin main
+git rm --cached jenkins_2.440.1_all.deb
+nano .gitignore
